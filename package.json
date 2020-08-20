@@ -1,9 +1,9 @@
 {
   "name": "juojuo-ui",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": false,
-  "module": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "module": "dist/stories/index.js",
+  "types": "dist/stories/index.d.ts",
   "sideEffects": false,
   "files": [
     "dist"
